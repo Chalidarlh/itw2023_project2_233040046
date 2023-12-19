@@ -1,0 +1,55 @@
+body {
+  font-family: "Playfair Display", serif;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #efd8c3;
+}
+
+#about {
+  background-color: #df9364;
+  color: white;
+}
+#hobby {
+  background-color: #efd8c3;
+  color: #c44b17;
+}
+#gallery {
+  background-color: #df9364;
+  color: white;
+}
+
+#gallery .card-text {
+  color: #c44b17;
+}
+#contact {
+  background-color: #efd8c3;
+  color: #c44b17;
+}
+footer {
+  background-color: #c44b17;
+  color: white;
+}
+section {
+  padding-top: 5rem;
+}
+
+.display-4 {
+  font-family: "Gloock", serif;
+  color: #c44b17;
+}
+
+.lead {
+  color: #df9364;
+}
+
+h2 {
+  font-family: "Marcellus SC", serif;
+}
+.fw-bold {
+  color: #efd8c3;
+}
+.fw-bold:hover {
+  color: rgb(119, 177, 180);
+}
